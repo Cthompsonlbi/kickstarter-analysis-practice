@@ -27,7 +27,7 @@ To provide further clarity we can continue to drill further into the Kickstarter
 
 ### Analysis of Outcomes Based on Goals
 As mentioned previoulsy, goals and expectations play an important role with regards to the success of a Kickstart campaign. The goal should be set at a value that market is willing and able to support. Setting a goal that exceeds the limit of the market will almost ensure failure and may even deter donations to fund.  By reviewing the table below of successful and failed theater/play kickstarters, the Mean and Median goals of successful campaigns were almost less that half of the Mean and Median of the failed campaign goals.  One step further, the failed campaign pledges would have not met the goals of the levels set by the successful campaigns.  The reasoning of why the failed campaigns pleadges were so low would need further investigation.  By reviewing the Goals and Pledges of the successful campaign the mean and upper and lower quartile numbers were similar while the failed campaigns goals and pledges were significantly lower than the upper and lower quartiles.
-![AnalysisKickStarterPlays](C:\Users\Chayo\Desktop\UCF_DataAnalysis\ClassWork\CrowdFundingAnalysis)
+![AnalysisKickStarterPlays](PracticePNG)
 
 ### Challenges and Difficulties Encountered
 Biggest challenge that I found was to drill down the data in the most efficient form, provide concise and accurate results that would help the client make a decision and not confuse them. Scope creep was also a problem as I found myself going deeper and deeper into the data trying to get to the very minute granular level.  Like an artist creating a painting, knowing when to stop is key.
