@@ -15,7 +15,7 @@ Based on the year over year successful launch chart below, you can see the healt
 * Music and publishing Kickstarters are showing a steady downward trend
 * Film, video and technology kick starter tend to show healthier success rates than games and food
 * Theater Kickstarts show very strong activity year over year,especially during years 2014 - 2016  This is information is favorable for a launch of a theater kickstart campaign.  Especially for a play as the next two plots show. 
-* ![YoYTrendsOfSuccesfulKickStarters](PracticePNG/YoYTrendsOfSuccesfulKickStarters.PNG)
+* ![YoYTrendsOfSuccesfulKickStarters](PracticePNG/YoYTrendsOfSuccesfulKickStarters.png)
 * ![SubCategoryPlays](PracticePNG/SubCategoryPlays.PNG)
 
 ### Analysis of Outcomes Based on Launch Date
