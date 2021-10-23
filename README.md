@@ -15,14 +15,14 @@ Based on the year over year successful launch chart below, you can see the healt
 * Music and publishing Kickstarters are showing a steady downward trend
 * Film, video and technology kick starter tend to show healthier success rates than games and food
 * Theater Kickstarts show very strong activity year over year,especially during years 2014 - 2016  This is information is favorable for a launch of a theater kickstart campaign.  Especially for a play as the next two plots show. 
-* ![YoYTrendsOfSuccesfulKickStarters](C:\Users\Chayo\Desktop\UCF_DataAnalysis\ClassWork\CrowdFundingAnalysis)
-* ![SubCategoryPlays](C:\Users\Chayo\Desktop\UCF_DataAnalysis\ClassWork\CrowdFundingAnalysis)
+* ![YoYTrendsOfSuccesfulKickStarters](PracticePNG/YoYTrendsOfSuccesfulKickStarters.PNG)
+* ![SubCategoryPlays](PracticePNG/SubCategoryPlays.PNG)
 
 ### Analysis of Outcomes Based on Launch Date
 From date ranges provided in the spreadsheet, 2009-2017, Kickstarters have proven to be a very popular method to generate money to fund projects.  Over 4000 Kickstarter campaigns were iniated over this time frame.  By analyzing Kickstarter data for all categoriesk, May appears to be the best time to launch a kickstart campain.
-![OutcomesBasedOnLaunchDate](C:\Users\Chayo\Desktop\UCF_DataAnalysis\ClassWork\CrowdFundingAnalysis)
+![OutcomesBasedOnLaunchDate](PracticePNG/OutcomesBasedOnLaunchDate)
 To provide further clarity we can continue to drill further into the Kickstarter data by providing information based solely on the category of interest which is funding for Theater.  Based on this information, one can see that it is more evident that the month of May is the best month to launch a successful Kickstart campaign. Please see attached Image.
-![OutcomesLaunchDateTheater](C:\Users\Chayo\Desktop\UCF_DataAnalysis\ClassWork\CrowdFundingAnalysis)
+![OutcomesLaunchDateTheater](PracticePNG/OutcomesLaunchDateTheater)
 
 
 ### Analysis of Outcomes Based on Goals
