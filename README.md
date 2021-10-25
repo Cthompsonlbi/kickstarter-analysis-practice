@@ -6,9 +6,9 @@
 
 ## Analysis and Challenges
 There are many things to consider when starting a Kickstarter campaign.
-*The strength of the economy
-*Trends in the industry that may lead one category to be in favor over another during Kickstarter campaigns
-*Goals and expectations of those launching the Kickstarter campaigns
+* The strength of the economy
+* Trends in the industry that may lead one category to be in favor over another during Kickstarter campaigns
+* Goals and expectations of those launching the Kickstarter campaigns
 
 ### The Kickstarter Trend by industry
 Based on the year over year successful launch chart below, you can see the health of Kickstarters for each category year over year.  By looking at the data one can see:
